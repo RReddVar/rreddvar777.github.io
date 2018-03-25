@@ -77,7 +77,7 @@ input {
 }
 
 #about {
-	background: url('https://cdn.pixabay.com/photo/2015/03/26/09/39/woman-690036_960_720.jpg') center center no-repeat;
+	background: url(../images/woman-690036_1920.jpg) center center no-repeat;
 	background-size: cover;
 }
 
