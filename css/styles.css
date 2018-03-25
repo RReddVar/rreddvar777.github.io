@@ -8,7 +8,7 @@ img {
 }
 
 #cover {
-	background: #222 url('https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg') center center no-repeat;
+	background: #222 url(images/milky-way-2695569_1280.jpg) center center no-repeat;
 	background-size: cover;
 	color:#fff;
 	height: 100%;
